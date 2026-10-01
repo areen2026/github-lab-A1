@@ -1,0 +1,7 @@
+Copy-pasting solutions is stealing your own education.
+
+It feels easy to copy code from Google or a friend, but you
+are cheating yourself out of the learning process. If you
+cannot explain why a line of code works, you will fail the
+exam or the interview.
+Think first, code second.
