@@ -1,0 +1,7 @@
+Stop watching the code run. Start debugging it.
+
+When you get an error, do not immediately ask a friend
+or an AI for the fix. Read the error message—it tells
+you exactly what is wrong. Use print statements to check
+your values step-by-step. Struggling to find the bug is
+how you actually learn; giving up in 5 minutes teaches you nothing.
