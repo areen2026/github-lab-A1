@@ -1,1 +1,5 @@
-Naman
+push your branch
+go to new pull request section
+choose your branch
+set target as main
+Namannnnnnnnnn
